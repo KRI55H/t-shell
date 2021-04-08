@@ -26,6 +26,7 @@ INSTALATION COMMANDS :
 >> apt install git
 >> apt install nano
 >> apt install figlet
+>> apt install play-audio
 >> cd t-shell
 >> chmod +x *
 >> cd old
