@@ -56,6 +56,14 @@ sleep 3
 echo
 echo -e "\033[1;34m[*]\e[33m Removed old shell successfully \e[m"||lolcat -t
 sleep 1
+echo -e "\033[1;34m[*]\e[33m Installing required packages \e[m"||lolcat -t
+sleep 1
+apt-get update
+apt-get upgrade
+apt install git
+apt install nano
+apt install figlet
+apt install play-audio
 echo
 echo -e "\033[1;34m[*]\e[33m Seting-up your new shell please wait \e[m"||lolcat -t
 sleep 3
