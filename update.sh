@@ -36,3 +36,4 @@ echo -e "\033[1;34m[*]\e[33m Update Finished. Checkout new changes! \e[m"||lolca
 ls
 cd t-shell
 ls
+chmod +x *
