@@ -1,7 +1,7 @@
 #! /data/data/com.termux/files/usr/bin/bash
 #####################################
 # PROJECT NAME : T-SHELL            #
-# PROJECT BY : I AM SLOLO           #
+# PROJECT BY : KRISS SIDDHAPURA     #
 # CONTECT : https://t.me/kalilinux7 #
 #####################################
 echo -e "\033[1;34m[★]\033[1;31m WELCOME"
