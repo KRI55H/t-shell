@@ -29,7 +29,7 @@ echo
 
 cd
 rm -rf t-shell
-git clone https://github.com/siddhapurakriss/t-shell
+git clone https://github.com/KRI55H/t-shell
 sleep 3
 echo
 echo -e "\033[1;34m[*]\e[33m Update Finished. Checkout new changes! \e[m"||lolcat -t
